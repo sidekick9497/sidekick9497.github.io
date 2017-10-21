@@ -16,6 +16,11 @@
     overflow:visible;
     background: #fff url('../img/preloader.gif') no-repeat center center;
 }
+body
+{
+	max-width: 100%;
+	overflow-x: hidden;
+}
 
 
 
